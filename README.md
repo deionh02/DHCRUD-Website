@@ -1,0 +1,2 @@
+# DHCRUD-Website
+This website is for computer science principles. This website is made by Deion Him and some of it's code is similar to the teacher. This website is for sport fans. To use this website you will need to type in a famous athlete full name in the first textbox then the sport he or she plays and if the athlete a male or female. We made this website on cloud 9 using html, php, javascript, css, and mysql.
